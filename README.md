@@ -101,15 +101,6 @@ customer-churn-prediction/
 │ Recommendations      │
 └──────────────────────┘
 ```
-## Application Screenshots
-
-### Dashboard
-![Dashboard](<Screenshot 2026-06-06 103140.png>)
-
-### Analytics Dashboard
-
-![Analytics](<Screenshot 2026-06-06 103231.png>)
-## Future Improvements
 
 - Random Forest
 - XGBoost
